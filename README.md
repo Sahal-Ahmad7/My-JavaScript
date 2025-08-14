@@ -1,0 +1,1 @@
+Today, I am excited to share the first five diverse coding projects that I will be pushing to my repository. Each one reflects both my learning journey and my commitment to writing clean, functional code. In shaa Allah, tomorrow I will be uploading even more innovative and advanced projects, building on this momentum and showcasing new ideas and techniques.
